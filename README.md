@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hailuo30.net/logo.png" alt="Hailuo 3.0 Logo" width="200"/>
+  <img src="hailuo-logo.png" alt="Hailuo 3.0 Logo" width="120"/>
 </p>
 
 <h1 align="center">Hailuo 3.0</h1>
