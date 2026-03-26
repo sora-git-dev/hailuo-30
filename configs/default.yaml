@@ -1,0 +1,10 @@
+model:
+  name: "hailuo-3.0-base"
+  dtype: "fp16"
+  
+generation:
+  resolution: "1080p"
+  fps: 24
+  duration: 5
+  num_inference_steps: 50
+  guidance_scale: 7.5
