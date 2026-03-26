@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Hailuo 3.0 Logo" width="200"/>
+  <img src="https://hailuo30.net/logo.png" alt="Hailuo 3.0 Logo" width="200"/>
 </p>
 
 <h1 align="center">Hailuo 3.0</h1>
@@ -73,30 +73,8 @@ Optimized AI pipeline delivers high-quality results in minutes.
 ## 🎬 Demo
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Hailuo 3.0 Demo" width="800"/>
+  <img src="https://hailuo30.net/og-image.webp" alt="Hailuo 3.0 Demo" width="800"/>
 </p>
-
-### Example Outputs
-
-<table>
-<tr>
-<td align="center">
-<img src="assets/example1.gif" width="250"/>
-<br/>
-<em>Text-to-Video: Cinematic Scene</em>
-</td>
-<td align="center">
-<img src="assets/example2.gif" width="250"/>
-<br/>
-<em>Image-to-Video: Portrait Animation</em>
-</td>
-<td align="center">
-<img src="assets/example3.gif" width="250"/>
-<br/>
-<em>4K Landscape Generation</em>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -113,21 +91,6 @@ The easiest way to experience Hailuo 3.0:
 
 ```
 No installation required • Free tier available • 4K output supported
-```
-
-### API Access
-
-For developers looking to integrate Hailuo 3.0:
-
-```bash
-curl -X POST https://api.hailuo30.net/v1/generate \
-  -H "Authorization: Bearer YOUR_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "prompt": "A majestic eagle soaring through mountain clouds at sunset",
-    "resolution": "4k",
-    "duration": 5
-  }'
 ```
 
 ---
@@ -172,22 +135,6 @@ curl -X POST https://api.hailuo30.net/v1/generate \
 │  Output         │  MP4 / WebM / GIF                    │
 └─────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 💬 Community
-
-Join our growing community:
-
-- 💬 [Discord Server](https://discord.gg/hailuo30)
-- 🐦 [Twitter/X](https://twitter.com/hailuo30)
-- 📧 Email: support@hailuo30.net
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
