@@ -35,6 +35,8 @@
 
 ## ✨ Features
 
+[Hailuo 3.0](https://hailuo30.net/) is a next-generation AI video generator that creates stunning cinematic videos with smooth motion and professional quality. It supports both text-to-video and image-to-video generation in up to 4K resolution.
+
 <table>
 <tr>
 <td width="50%">
